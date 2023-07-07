@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Breno27/Breno27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará uma variedade de projetos e contribuições que refletem minha paixão pela programação e meu desejo de aprender constantemente.
 
-Here are some ideas to get you started:
+#Sobre mim
+🔭 Atualmente, na Bluesoft como Analista de Testes.
+🌱 Estou estudando Análise e Desenvolvimento de Sistenas na FIAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Projetos destacados
+Fintech - Projeto para gerir finanças desenolvido na própria FIAP nesse ano letivo.
+
+Contato
+Se você gostaria de entrar em contato comigo, pode me encontrar nas seguintes plataformas:
+
+[LinkedIn](https://www.linkedin.com/in/breno-fernandes-003701158/)
+Fique à vontade para explorar meu projeto e deixar um feedback. Estou sempre aberto a novas colaborações e oportunidades interessantes!
